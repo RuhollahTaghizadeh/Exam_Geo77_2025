@@ -19,7 +19,7 @@ Briefly, for DSM according to SCORPAN model, there are three requirements includ
 
 # Background
 
-The main aim of the project is to create digital maps of soil properties in four countries of Germany, Austria, Poland, and Czechia. Each country is specified to each group. You should only work on your datasets. At the end, you are asked to **answer the questions**.
+The main aim of the project is to create digital maps of soil properties in four countries of Germany, Austria, Poland, and Czechia. **You can work either alone or in a group of four people**. 
 
 # Datasets
 

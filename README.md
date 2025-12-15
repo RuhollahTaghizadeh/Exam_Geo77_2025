@@ -1,8 +1,10 @@
 # Excercise
 
+## You can work either alone or in a group of four people
+
 # Introduction
 
-Traditionally, soil mapping involves soil sampling, classification, and the extrapolation of this information using aerial-photograph interpretation and expert knowledge. However, this approach is labor-intensive, subjective, time-consuming, and expensive. In order to develop detailed knowledge regarding the spatial distribution of the soil resource, digital soil mapping (DSM) techniques are increasingly being employed to add value to traditional soil maps. The basic premise that underlies DSM is various soil forming factors need to be considered during the development of a soil map. In order to generate maps of these factors cost-effectively, **covariates** that are available throughout the area are used as surrogate information. Soil forming factors such as parent material, relief, and age of land surface can easily be obtained from geological maps, remote sensing data, and digital elevation models (DEM).
+In order to develop detailed knowledge regarding the spatial distribution of the soil resource, digital soil mapping (DSM) techniques are increasingly being employed to add value to traditional soil maps. The basic premise that underlies DSM is various soil forming factors need to be considered during the development of a soil map. In order to generate maps of these factors cost-effectively, **covariates** that are available throughout the area are used as surrogate information. Soil forming factors such as parent material, relief, and age of land surface can easily be obtained from geological maps, remote sensing data, and digital elevation models (DEM).
 
 A further requirement in DSM is that the relationship between soil and covariates is implemented by applying empirical models. Various **machine learning** modeling techniques have been used for the digital mapping of soils. These methods include logistic regressions, artificial neural networks, and random forest, which is perhaps the most commonly employed. 
 
@@ -19,7 +21,9 @@ Briefly, for DSM according to SCORPAN model, there are three requirements includ
 
 # Background
 
-The main aim of the project is to create digital maps of soil properties in four countries of Germany, Austria, Poland, and Czechia. **You can work either alone or in a group of four people**. 
+The main aim of the project is to create digital maps of soil properties in four countries of Germany, Austria, Poland, and Czechia.
+
+**Please choose one country**
 
 # Datasets
 

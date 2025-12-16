@@ -27,7 +27,7 @@ The main aim of the project is to create digital maps of soil properties in four
 
 ## Download Dataset [**HERE**](https://github.com/RuhollahTaghizadeh/ExamGeo772022)
 
-In the [**FILE**](https://github.com/RuhollahTaghizadeh/ExamGeo772022), there are three sub-folders: Covariates, GIS, and Soil. 
+In the [**FILE**](https://github.com/RuhollahTaghizadeh/Exam_Geo77_2025), there are three sub-folders: Covariates, GIS, and Soil. 
 
 * Covariates: There are 17 covariates with the format of [**Raster**](https://www.neonscience.org/resources/learning-hub/tutorials/raster-data-r) which are derived from digital elevation model [**DEM**](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm-1),  [**Landsat-8**](https://www.usgs.gov/faqs/what-are-band-designations-landsat-satellites), and climatic parameters of temprature and rainfall from [**WorldClim**](https://www.worldclim.org/data/index.html). 
 

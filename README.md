@@ -1,6 +1,12 @@
 # Excercise
 
-## You can work either alone or in a group of four people
+## work individually
+
+## select one country and one soil property
+
+## main aim is to create a soil map
+
+## compile relevant materials in a PDF file and upload to ILIAS: e.g., histograms, correlations, accuracy assessments of two models, variable importance, soil map, one parageraph of conclusion
 
 # Introduction
 
@@ -10,20 +16,12 @@ A further requirement in DSM is that the relationship between soil and covariate
 
 Briefly, for DSM according to SCORPAN model, there are three requirements including soil data, covariates, and machine learning.  
 
-# Instructions
-
-* Use Python or R to perform the project required
-
-* Include all of the visualizations you create to complete the project
-
-* Include all of the codes you use to complete the project
-
 
 # Background
 
 The main aim of the project is to create digital maps of soil properties in four countries of Germany, Austria, Poland, and Czechia.
 
-**Please choose one country**
+**Please choose one country and one soil property**
 
 # Datasets
 

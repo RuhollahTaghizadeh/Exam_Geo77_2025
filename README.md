@@ -1,12 +1,12 @@
 # Excercise
 
-## work individually
+## -> work individually
 
-## select one country and one soil property
+## -> select one country and one soil property
 
-## main aim is to create a soil map
+## -> main aim is to create a soil map
 
-## compile relevant materials in a PDF file and upload to ILIAS: e.g., histograms, correlations, accuracy assessments of two models, variable importance, soil map, one parageraph of conclusion
+## -> compile relevant materials in a PDF file and upload to ILIAS: e.g., histograms, correlations, accuracy assessments of two models, variable importance, soil map, one parageraph of conclusion
 
 # Introduction
 
